@@ -1,0 +1,1 @@
+This is a simple To-Do web app built with HTML, CSS, and JavaScript.  Users can add tasks with a title and date/time, then edit, complete, or delete them.  The interface is clean, responsive, and easy to use on any device.  Perfect for organizing daily tasks quickly and efficiently.
